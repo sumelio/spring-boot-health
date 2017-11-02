@@ -36,3 +36,5 @@ https://blog.jayway.com/2014/07/22/spring-boot-custom-healthindicator/
 https://docs.cloudfoundry.org/cf-cli/getting-started.html
 
 https://account.run.pivotal.io/z/uaa/identity/apps
+
+ xdg-open
